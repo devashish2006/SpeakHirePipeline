@@ -1,0 +1,29 @@
+pyaudio
+# Core LLM & LangGraph
+openai
+langgraph
+langchain
+langchain-openai
+langchainhub
+
+# Resume Parsing
+pdfplumber        # or use PyMuPDF (fitz) if preferred
+python-docx       # for .docx resumes
+
+# Vector DB (Qdrant)
+qdrant-client
+
+# Graph DB (Neo4j)
+neo4j             # Official driver for Neo4j
+
+# Memory & Context
+
+
+
+# Audio
+openai-whisper    # For speech-to-text
+        # For TTS (you can also use edge-tts or elevenlabs)
+
+# Dev
+python-dotenv     # Manage env variables
+tqdm              # Progress bars (optional)
